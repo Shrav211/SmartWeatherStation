@@ -53,4 +53,6 @@ These devices can analyze sensor data, detect anomalies, and trigger actions bas
 - React as a Frontend for our Web Application 
 
 - AI model
-  - Prophet ( Time Series Model ) 
+  - Prophet ( Time Series Model )
+
+
