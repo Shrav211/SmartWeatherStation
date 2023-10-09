@@ -55,4 +55,8 @@ These devices can analyze sensor data, detect anomalies, and trigger actions bas
 - AI model
   - Prophet ( Time Series Model )
 
+## Flow Diagram
+![image](https://github.com/Shrav211/SmartWeatherStation/assets/73655596/37136a23-c688-49f7-a816-8b573bec0d03)
 
+## Architecture
+![image](https://github.com/Shrav211/SmartWeatherStation/assets/73655596/c48067cd-f991-4175-9198-aba02e516fbb)
