@@ -46,3 +46,11 @@ These devices can analyze sensor data, detect anomalies, and trigger actions bas
 - Rainfall Sensor   SEN-3115
 
 - Raspberry Pi 4 
+
+## Software Components
+- Flask Framework as a Backend for our Web Application
+
+- React as a Frontend for our Web Application 
+
+- AI model
+  - Prophet ( Time Series Model ) 
